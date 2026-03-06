@@ -7,7 +7,7 @@ https://farizmuhamad.github.io/portfolio/
 
 ## 🛠 Tech Stack
 - HTML
-- CSS3
+- CSS
 - JavaScript
 
 ## 📌 Features
