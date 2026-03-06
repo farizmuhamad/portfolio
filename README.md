@@ -3,7 +3,7 @@
 Personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-https://farizmuhamad.github.io./portfolio/
+https://farizmuhamad.github.io/portfolio/
 
 ## 🛠 Tech Stack
 - HTML
